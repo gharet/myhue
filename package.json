@@ -1,0 +1,11 @@
+{
+  "name" : "EchoMultiTimer",
+  "version" : "0.0.1",
+  "description" : "Timer with the ability to track multiple timers at once",
+  "dependencies" : {
+    "express" : "4.x.x",
+    "chai-spies" : "0.x.x",
+    "chai" : "3.x.x",
+    "sinon" : "1.x.x"
+   }
+}
